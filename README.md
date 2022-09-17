@@ -1,4 +1,4 @@
-# CNNFromScracht
+# CNNFromScratch
 Implementação de uma Rede Neural Convolucional, com uso de data augmentation em um pequeno dataset (5000 imagens)
 
 Implementação do exemplo do livro de François Chollet(2021) - 
